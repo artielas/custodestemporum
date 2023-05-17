@@ -2,11 +2,11 @@ html, body {
   background-color: #000000;
   color: #ffffff;
   margin:0;
-  padding-top:25px;
+  padding-top:50px;
   height:100%;
   font-family:Verdana;
   font-size:15px;
-  padding:1px;
+  padding:5px;
 }
 #header{
   background-color: #000317;
