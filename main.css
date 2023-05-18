@@ -2,19 +2,16 @@ body {
   background-color: #000000;
   color: #ffffff;
   margin:25;
-  padding-top:200px;
   height:100%;
   font-family:"Verdana";
   font-size:15px;
-  padding:25px;
 }
 #header{
   position: fixed;
   z-index:5;
-  padding: -25px;
   background-color: #000317;
   height: 70px;
-  width: 500px;
+  width: 1000px;
   border-bottom: 1px solid #ffffff;
 }
 h1, h2 {
