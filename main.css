@@ -10,9 +10,7 @@ header{
   z-index:5;
   padding-top:15px;
   background-color: #000317;
-  height: 70px;
   width: 2000px;
-  border-bottom: 1px solid #ffffff;
 }
 .main {
   padding-top:120px;
@@ -48,6 +46,7 @@ header li {
   display:inline;
   float: left;
   border-right: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
 }
 header a {
   display: block;
