@@ -13,6 +13,9 @@ body {
   width: 1000px;
   border-bottom: 1px solid #ffffff;
 }
+#main {
+  padding-top:25px;
+}
 h1, h2 {
   font-family:"Times New Roman";
   margin:15px;
