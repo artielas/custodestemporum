@@ -9,6 +9,8 @@ body {
   padding:5px;
 }
 #header{
+  position: fixed;
+  z-index:5
   background-color: #000317;
   height: 70px;
   border-bottom: 1px solid #ffffff;
@@ -17,7 +19,7 @@ h1, h2 {
   font-family:"Times New Roman";
 }
 #overlay {
-  position: fixed;
-  z-index:100;
+  position: absolute;
+  z-index:-1;
   color:#000000;
 }
