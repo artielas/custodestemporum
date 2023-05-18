@@ -3,7 +3,6 @@ body {
   color: #ffffff;
   height:100%;
   margin:0px;
-  font-family:"Verdana";
   font-size:15px;
 }
 #header{
@@ -16,6 +15,11 @@ body {
 }
 h1, h2 {
   font-family:"Times New Roman";
+  padding:25px;
+}
+p {
+  font-family:"Verdana";
+  padding:25px;
 }
 #overlay {
   position: absolute;
