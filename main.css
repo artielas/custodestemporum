@@ -8,13 +8,14 @@ body {
 .header{
   position: fixed;
   z-index:5;
+  padding-top:15px;
   background-color: #000317;
   height: 70px;
   width: 2000px;
   border-bottom: 1px solid #ffffff;
 }
 .main {
-  padding-top:90px;
+  padding-top:120px;
 }
 h1, h2 {
   font-family:"Times New Roman";
@@ -42,4 +43,15 @@ ul.header {
   list-style-type:none;
   margin:0;
   padding:0;
+}
+li.header {
+  float: left;
+}
+a.header {
+  display: block;
+  padding: 8px;
+  background-color: #000317;
+}
+li.header a:hover {
+  background-color: #000000;
 }
