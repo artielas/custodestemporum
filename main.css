@@ -2,7 +2,7 @@ body {
   background-color: #000000;
   color: #ffffff;
   margin:0;
-  padding-top:50px;
+  padding-top:100px;
   height:100%;
   font-family:Verdana;
   font-size:15px;
@@ -11,7 +11,7 @@ body {
 #header{
   position: fixed;
   z-index:5
-  background-color: #000317;
+  background: #000317;
   height: 70px;
   border-bottom: 1px solid #ffffff;
 }
