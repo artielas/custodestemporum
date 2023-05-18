@@ -4,14 +4,15 @@ body {
   margin:25;
   padding-top:200px;
   height:100%;
-  font-family:Verdana;
+  font-family:"Verdana";
   font-size:15px;
   padding:25px;
 }
 #header{
   position: fixed;
-  z-index:5
-  background: #000317;
+  z-index:5;
+  padding: 25px;
+  background-color: #000317;
   height: 70px;
   border-bottom: 1px solid #ffffff;
 }
