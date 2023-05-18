@@ -11,9 +11,10 @@ body {
 #header{
   position: fixed;
   z-index:5;
-  padding: 25px;
+  padding: 0px;
   background-color: #000317;
   height: 70px;
+  width: 300px;
   border-bottom: 1px solid #ffffff;
 }
 h1, h2 {
