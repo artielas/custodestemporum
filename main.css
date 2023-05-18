@@ -2,6 +2,8 @@ body {
   background-color: #000000;
   color: #ffffff;
   height:100%;
+  margin:0px;
+  padding:25px;
   font-family:"Verdana";
   font-size:15px;
 }
