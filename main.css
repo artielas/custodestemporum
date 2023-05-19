@@ -46,8 +46,9 @@ header ul {
 header li {
   display:inline;
   float: left;
-  border-right: 1px solid #ffffff;
-  border-bottom: 1px solid #ffffff;
+  border-right: 1px solid ##011170;
+  color:#ffffff;
+  text-decoration:none;
 }
 header a {
   display: block;
