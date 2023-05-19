@@ -46,14 +46,15 @@ header ul {
 header li {
   display:inline;
   float: left;
-  text-decoration:none;
-  color:#ffffff;
   border-right: 1px solid ##011170;
 }
 header a {
   display: block;
   padding: 8px;
   background-color: #000317;
+  text-decoration:none;
+  color:#ffffff;
+
 }
 header li a:hover {
   background-color: #000629;
