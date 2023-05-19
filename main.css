@@ -18,13 +18,13 @@ header {
 }
 h1, h2 {
   font-family:"Times New Roman";
-  text-decoration:none;
+  font-weight:normal;
   margin:15px;
   padding:5px;
 }
 p {
   margin:15px;
-  letter-spacing:1px;
+  letter-spacing:0.5px;
   font-family:"Helvetica";
   padding:5px;
 }
