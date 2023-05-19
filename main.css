@@ -17,14 +17,14 @@ header {
   padding-top:120px;
 }
 h1, h2 {
-  font-family:"Helvetica";
+  font-family:"Times New Roman";
   text-decoration:none;
   margin:15px;
   padding:5px;
 }
 p {
   margin:15px;
-  font-family:"Verdana";
+  font-family:"Helvetica";
   padding:5px;
 }
 #annus {
