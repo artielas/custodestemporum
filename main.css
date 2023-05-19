@@ -59,6 +59,6 @@ header a {
 header li a:hover {
   background-color: #000629;
 }
-.active {
+li.active {
   background-color: #000000;
 }
