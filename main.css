@@ -4,6 +4,7 @@ body {
   height:100%;
   margin:0px;
   font-size:15px;
+  padding-top:140px;
 }
 header {
   position: fixed;
@@ -12,9 +13,6 @@ header {
   background-color: #000317;
   width: 2000px;
   border-bottom: 1px solid #011170;
-}
-.main {
-  padding-top:120px;
 }
 h1, h2 {
   font-family:"Times New Roman";
