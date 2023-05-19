@@ -11,7 +11,7 @@ header{
   padding-top:15px;
   background-color: #000317;
   width: 2000px;
-  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid #011170;
 }
 .main {
   padding-top:120px;
@@ -46,7 +46,7 @@ header ul {
 header li {
   display:inline;
   float: left;
-  border-right: 1px solid ##011170;
+  border-right: 1px solid #011170;
 }
 header a {
   display: block;
